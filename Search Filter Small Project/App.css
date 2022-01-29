@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.App input{
+  margin-top:20px;
+  width:399px;
+  height:49px;
+  font-size:20px;
+  padding-left:10px;
+}
+p{
+  margin:10px;
+}
